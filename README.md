@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 # coffee_app
+
+ ![Image Alt](https://github.com/mayurranshinge08/coffee_app/blob/a74b998ceb7f59990a669dbed94df0560010e22a/coffee_page.png)
+
 =======
 # task
 
